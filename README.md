@@ -1,16 +1,94 @@
-# React + Vite
+# 🧩 PLP Task Manager — React + Vite + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant task management web app built with **React**, **Vite**, and **Tailwind CSS**.  
+This project demonstrates key front-end development concepts such as component structuring, API fetching, dynamic state management, and modern UI styling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 **View the deployed site here:**  
+👉 [https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Ngaukon/](https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Ngaukon/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏠 Home Page
+![App Screenshot](./screenshots/reactapp.png)
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React 19**
+- ⚡ **Vite 7**
+- 🎨 **Tailwind CSS 4**
+- 🌐 **Fetch API** for data loading
+- 🚀 **GitHub Pages** for deployment
+
+---
+
+## ⚙️ Installation and Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/plp-mern-stack-development/react-js-jsx-and-css-mastering-front-end-development-Ngaukon.git
+cd react-js-jsx-and-css-mastering-front-end-development-Ngaukon
+npm install
+````
+
+Run the app locally:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+---
+
+## 🧠 Features
+
+* 🔹 Responsive layout with dark mode support
+* 🔹 Task management (add, edit, delete)
+* 🔹 Counter functionality
+* 🔹 Fetches sample data from JSONPlaceholder API
+* 🔹 Modular components (Navbar, Button, Footer, Card, TaskManager)
+
+---
+
+## 👨‍💻 Author
+💼 [https://github.com/Ngaukon](https://github.com/Ngaukon)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use and adapt it for learning purposes.
+
+---
+
+⭐ *If you found this helpful, give it a star on GitHub!*
+
+```
+
+---
+
+### 🪄 Instructions to finish setup
+
+1. Create a folder in your project root:
+```
