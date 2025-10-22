@@ -64,7 +64,7 @@ function App() {
             </div>
 
             <p className="text-gray-500 dark:text-gray-400 mt-4">
-              Implement your TaskManager component here
+              
             </p>
             <div className="w-full mt-4">
               <TaskManager />
