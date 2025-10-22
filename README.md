@@ -85,5 +85,3 @@ This project is licensed under the **MIT License** — feel free to use and adap
 ⭐ *If you found this helpful, give it a star on GitHub!*
 
 ```
-
----
