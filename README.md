@@ -87,8 +87,3 @@ This project is licensed under the **MIT License** — feel free to use and adap
 ```
 
 ---
-
-### 🪄 Instructions to finish setup
-
-1. Create a folder in your project root:
-```
